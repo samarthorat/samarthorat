@@ -1,36 +1,37 @@
 <div align="center">
 
-<!-- GLITCH STYLE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=glitch&color=0:6C63FF,50:00D4FF,100:FF2D78&height=220&section=header&text=Samar%20Thorat&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Turning%20Curiosity%20into%20Code%20%26%20Ideas%20into%20Products&descAlignY=65&descSize=18&animation=glitch" width="100%"/>
+# 👾 SAMAR THORAT
 
-<!-- TYPING ANIMATION — DYNAMIC MIX -->
+### ✦ Turning Curiosity into Code & Ideas into Products ✦
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Student+%7C+Builder+%7C+Dreamer+%F0%9F%9A%80;Exploring+ML%2C+AI+%26+Fintech+%F0%9F%92%B3;Turning+Data+into+Decisions+%F0%9F%93%8A;Meeting+Entrepreneurs%2C+Building+Products+%F0%9F%A4%9D;Code.+Data.+Hustle.+Repeat.+%F0%9F%94%A5;One+Project+at+a+Time+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
 ## 🧠 About Me
 
-👋 Hi, I'm **Samarth** — a passionate Data Science & AI student on a mission to turn raw data into real impact.
+👋 Hi, I'm **Samar Thorat** — a passionate Data Science & AI student on a mission to turn raw data into real impact.
 
 🎓 **Student** diving deep into Machine Learning, Deep Learning & Data Analysis  
 🤖 **Obsessed** with building AI models that actually solve real problems  
+💳 **Exploring** Fintech and how AI is reshaping the future of finance  
+🤝 **Networking** with entrepreneurs and turning ideas into real products  
 📊 **Believer** that every dataset has a story worth telling  
-🌍 **Goal:** Use data and AI to make a meaningful difference in the world  
 ⚡ **Fun fact:** I talk to models more than people 🤖
 
----
+<br>
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Exploring** deep learning architectures and NLP models
-- 🌱 **Learning** MLOps, model deployment & LLM fine-tuning
-- 🛠️ **Building** end-to-end ML pipelines from scratch
-- 💬 **Ask me about** Python, data wrangling, or neural networks
-- ⚡ **Fun fact:** I think in dataframes and dream in tensors
+🔭 **Exploring** deep learning architectures and NLP models  
+🌱 **Learning** MLOps, model deployment & LLM fine-tuning  
+🛠️ **Building** end-to-end ML pipelines from scratch  
+💬 **Ask me about** Python, data wrangling, or neural networks  
+🧪 **Experimenting** with Fintech ideas and AI-powered products  
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +42,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ML / AI
+### ML & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -65,7 +66,7 @@
 
 </div>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -78,7 +79,7 @@
 
 </div>
 
----
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -86,7 +87,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=samarthorat&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
----
+<br>
 
 ## 📈 Contribution Graph
 
@@ -94,7 +95,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthorat&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
----
+<br>
 
 ## 🌐 Connect With Me
 
@@ -108,14 +109,12 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<!-- VISITOR COUNTER -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=samarthorat&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
+✦ Thanks for visiting — let's build something amazing together! ✦
 
 </div>
