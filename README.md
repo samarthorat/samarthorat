@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Samarth%20Orat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<!-- GLITCH STYLE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=glitch&color=0:6C63FF,50:00D4FF,100:FF2D78&height=220&section=header&text=Samar%20Thorat&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Turning%20Curiosity%20into%20Code%20%26%20Ideas%20into%20Products&descAlignY=65&descSize=18&animation=glitch" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI+that+Actually+Works+%F0%9F%A4%96;Exploring+the+Edge+of+What%27s+Possible+%F0%9F%9A%80;Student+%7C+Builder+%7C+Curious+Mind+%F0%9F%A7%A0)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION — DYNAMIC MIX -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Student+%7C+Builder+%7C+Dreamer+%F0%9F%9A%80;Exploring+ML%2C+AI+%26+Fintech+%F0%9F%92%B3;Turning+Data+into+Decisions+%F0%9F%93%8A;Meeting+Entrepreneurs%2C+Building+Products+%F0%9F%A4%9D;Code.+Data.+Hustle.+Repeat.+%F0%9F%94%A5;One+Project+at+a+Time+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
