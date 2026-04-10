@@ -107,6 +107,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=samarthorat&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-✦ Thanks for visiting — let's build something amazing together! ✦
+✦ Thanks for visiting - let's build something amazing together! ✦
 
 </div>
