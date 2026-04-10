@@ -71,8 +71,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-username=samarthorat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthorat&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF4500&currStreakLabel=6C63FF" width="48%" />
+username=samarthorat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&user=samarthorat&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF4500&currStreakLabel=6C63FF" width="48%" />
 
 
 </div>
